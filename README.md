@@ -30,10 +30,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![osTicketCreated1](https://github.com/user-attachments/assets/da7a8cf2-3c81-44e3-a7d9-a21d9ab3db48)
+![osTicketCreated2](https://github.com/user-attachments/assets/7527806d-49e4-437c-baa1-991b21f1e809)
+
 </p>
 <p>
-Type Here
+Created a new ticket as an end-user (Jane) stating that mobile/online banking system is down, Under (John) as a help desk agent, I was able to observe the ticket's properties (Priority, Department, SLA & Assigned to) and make changes.  SLA - Sev-A, Assigned to - Online Banking, Department - Support. Changed Help Topic to Report a Problem/Business Critical Outage
 </p>
 <br />
 
