@@ -36,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Created a new ticket as an end-user (Jane) stating that mobile/online banking system is down, Under (John) as a help desk agent, I was able to observe the ticket's properties (Priority, Department, SLA & Assigned to) and make changes.  SLA - Sev-A, Assigned to - Online Banking, Department - Support. Changed Help Topic to Report a Problem/Business Critical Outage
+Created a new ticket as an end-user (Jane) stating that mobile/online banking system is down, Under (John) as a help desk agent, I was able to observe the ticket's properties (Priority, Department, SLA & Assigned to) and make changes.  SLA - Sev-A, Assigned to - Online Banking, Department - Support. Changed Help Topic to Report a Problem/Business Critical Outage, and then was able to resolve the Ticket.
 </p>
 <br />
 
