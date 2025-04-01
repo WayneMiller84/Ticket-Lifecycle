@@ -33,10 +33,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![osTicketCreated1](https://github.com/user-attachments/assets/da7a8cf2-3c81-44e3-a7d9-a21d9ab3db48)
 ![osTicketCreated2](https://github.com/user-attachments/assets/7527806d-49e4-437c-baa1-991b21f1e809)
+![osTicketCreated3](https://github.com/user-attachments/assets/43022ee8-2206-4713-be10-8fc29b1480bc)
 
 </p>
 <p>
-Created a new ticket as an end-user (Jane) stating that mobile/online banking system is down, Under (John) as a help desk agent, I was able to observe the ticket's properties (Priority, Department, SLA & Assigned to) and make changes.  SLA - Sev-A, Assigned to - Online Banking, Department - Support. Changed Help Topic to Report a Problem/Business Critical Outage, and then was able to resolve the Ticket.
+Created a new ticket as an end-user (Jane) stating that mobile/online banking system is down, Under (John) as a help desk agent, I was able to observe the ticket's properties (Priority, Department, SLA & Assigned to) and make changes.  SLA - Sev-A, Assigned to - Online Banking, Department - Support. Changed Help Topic to Report a Problem/Business Critical Outage, and then was able to resolve the Ticket under (Jane)
 </p>
 <br />
 
