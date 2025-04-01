@@ -30,7 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img![osTicketCreated1](https://github.com/user-attachments/assets/634143ab-1658-4b6f-a3f2-7cbaf970a9fc)
+ />
 </p>
 <p>
 Type Here
